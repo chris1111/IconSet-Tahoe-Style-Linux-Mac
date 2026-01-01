@@ -1,6 +1,7 @@
 # IconSet-Tahoe-Style-Linux-Mac-Windows
 Icon Set Linux, Windows and Mac Tahoe Style Liquid Glass Effects
 ### View ➥ [Full Set](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-Set.md)
+### Downloads ➦ [IconSet-Tahoe-Style-Linux-Mac-Windows](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/archive/refs/heads/main.zip)
 
 <img src="Icons_1024/Garuda.png" alt="Github Project" style="width:25%;"><img src="Icons_1024/BlackArch.png" alt="Github Project" style="width:25%;"><img src="Icons_1024/Fatdog.png" alt="Github Project" style="width:25%;"><img src="Icons_1024/Debian.png" alt="Github Project" style="width:25%;">
 
