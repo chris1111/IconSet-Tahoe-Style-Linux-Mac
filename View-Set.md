@@ -19,7 +19,9 @@
 <img src="Icons_1024/Apple15.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple26.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/SystemSettings.png" alt="Github Project" style="width:20%;">
+
 ### Linux Icons
+
 <img src="Icons_1024/Alma.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Alpine.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Antix.png" alt="Github Project" style="width:20%;">
