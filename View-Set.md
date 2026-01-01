@@ -89,14 +89,14 @@
 <img src="Icons_1024/Ubuntu_Unity.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Ubuntu.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Void.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Windows.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Windows10.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Windows11_Purple.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Windows11.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Windows11+.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Xubuntu.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Zorin.png" alt="Github Project" style="width:20%;">
 
+### Windows Icons
 
+<img src="Icons_1024/Windows.png" alt="Github Project" style="width:20%;"><img src="Icons_1024/Windows11.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Windows10.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Windows11+.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Windows11_Purple.png" alt="Github Project" style="width:20%;">
 [Back On ➦ Top](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-Set.md#view-set)
 
