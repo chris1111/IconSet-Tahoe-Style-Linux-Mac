@@ -1,28 +1,7 @@
 ## View Set
-### Mac Icons
-<img src="Icons_1024/Apple10_4.png" alt="Github Project" style="width:20%;"><img src="Icons_1024/Apple10_5.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_6.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_7.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_8.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_9.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_10.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_11.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_12.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_13.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_14.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_15.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple11_Dark.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple11.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple12.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple13.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple14.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple15.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple26.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/SystemSettings.png" alt="Github Project" style="width:20%;">
-
 ### Linux Icons
 
-<img src="Icons_1024/Alma.png" alt="Github Project" style="width:20%;"><img src="Icons_1024/Alpine.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Alma.png" alt="Github Project" style="width:20%;"> <img src="Icons_1024/Alpine.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Antix.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Arch.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Artix.png" alt="Github Project" style="width:20%;">
@@ -92,9 +71,30 @@
 <img src="Icons_1024/Xubuntu.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Zorin.png" alt="Github Project" style="width:20%;">
 
+### Mac Icons
+<img src="Icons_1024/Apple10_4.png" alt="Github Project" style="width:20%;"> <img src="Icons_1024/Apple10_5.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_6.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_7.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_8.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_9.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_10.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_11.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_12.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_13.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_14.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_15.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple11_Dark.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple11.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple12.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple13.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple14.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple15.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple26.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/SystemSettings.png" alt="Github Project" style="width:20%;">
+
 ### Windows Icons
 
-<img src="Icons_1024/Windows.png" alt="Github Project" style="width:20%;"><img src="Icons_1024/Windows11.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Windows.png" alt="Github Project" style="width:20%;"> <img src="Icons_1024/Windows11.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Windows10.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Windows11+.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Windows11_Purple.png" alt="Github Project" style="width:20%;">
