@@ -1,9 +1,6 @@
 ## View Set
 
-<img src="Icons_1024/Alma.png" alt="Github Project" style="width:20%;"><img src="Icons_1024/Alpine.png" alt="Github Project" style="width:20%;"> 
-<img src="Icons_1024/Antix.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_4.png" alt="Github Project" style="width:20%;">
-<img src="Icons_1024/Apple10_5.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_4.png" alt="Github Project" style="width:20%;"><img src="Icons_1024/Apple10_5.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple10_6.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple10_7.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple10_8.png" alt="Github Project" style="width:20%;">
@@ -21,6 +18,9 @@
 <img src="Icons_1024/Apple14.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple15.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple26.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Alma.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Alpine.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Antix.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Arch.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Artix.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/BlackArch.png" alt="Github Project" style="width:20%;">
