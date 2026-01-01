@@ -2,6 +2,8 @@
 ### Linux Icons
 
 <img src="Icons_1024/Alma.png" alt="Github Project" style="width:20%;"> <img src="Icons_1024/Alpine.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Altlinux.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Antergos.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Antix.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Arch.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Artix.png" alt="Github Project" style="width:20%;">
@@ -22,10 +24,12 @@
 <img src="Icons_1024/FreeBSD.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Garuda.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Gentoo.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/GhostBSD.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Kali.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Kaos.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/knoppix.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Kubuntu.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Legacy.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Linux.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Linuxfx_11.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Lite.png" alt="Github Project" style="width:20%;">
