@@ -15,6 +15,7 @@
 <img src="Icons_1024/Clear.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Debian.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Deepin.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/DragonFlyBSD.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Elementary.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Endeavour.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Endless.png" alt="Github Project" style="width:20%;">
@@ -60,6 +61,7 @@
 <img src="Icons_1024/Rosa.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Septor.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Slackware.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/SmartOS.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Solus.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/SteamOS.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Suse.png" alt="Github Project" style="width:20%;">
@@ -67,10 +69,12 @@
 <img src="Icons_1024/Tinycore.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Ubuntu_Cinnamon.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Ubuntu_DDE.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Ubuntu_Gnome.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Ubuntu_Mate.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Ubuntu_Studio.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Ubuntu_Unity.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Ubuntu.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/UltimateEdition.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Void.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Xubuntu.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Zorin.png" alt="Github Project" style="width:20%;">
