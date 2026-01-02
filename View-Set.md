@@ -78,8 +78,11 @@
 ### Mac Icons
 <img src="Icons_1024/Apple10_4.png" alt="Github Project" style="width:20%;"> <img src="Icons_1024/Apple10_5.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple10_6.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_6_Alt.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple10_7.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_7_Alt.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple10_8.png" alt="Github Project" style="width:20%;">
+<img src="Icons_1024/Apple10_8_Alt.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple10_9.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple10_10.png" alt="Github Project" style="width:20%;">
 <img src="Icons_1024/Apple10_11.png" alt="Github Project" style="width:20%;">
