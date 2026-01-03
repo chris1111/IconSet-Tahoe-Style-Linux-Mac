@@ -1,0 +1,559 @@
+{
+  "color-space-for-untagged-svg-colors" : "display-p3",
+  "fill" : {
+    "automatic-gradient" : "extended-srgb:0.00000,0.53333,1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "blend-mode" : "normal",
+          "fill" : "automatic",
+          "hidden" : true,
+          "image-name" : "Alma.png",
+          "name" : "Alma"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Alpine.png",
+          "name" : "Alpine"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Altlinux.png",
+          "name" : "Altlinux"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Antergos.png",
+          "name" : "Antergos"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Antix.png",
+          "name" : "Antix"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_4.png",
+          "name" : "Apple10_4"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_5.png",
+          "name" : "Apple10_5"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_6_Alt.png",
+          "name" : "Apple10_6_Alt"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_6.png",
+          "name" : "Apple10_6"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_7_Alt.png",
+          "name" : "Apple10_7_Alt"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_7.png",
+          "name" : "Apple10_7"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_8_Alt.png",
+          "name" : "Apple10_8_Alt"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_8.png",
+          "name" : "Apple10_8"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_9.png",
+          "name" : "Apple10_9"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_10.png",
+          "name" : "Apple10_10"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_11.png",
+          "name" : "Apple10_11"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_12.png",
+          "name" : "Apple10_12"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_13.png",
+          "name" : "Apple10_13"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_14.png",
+          "name" : "Apple10_14"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple10_15.png",
+          "name" : "Apple10_15"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple11_Dark.png",
+          "name" : "Apple11_Dark"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple11.png",
+          "name" : "Apple11"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple12.png",
+          "name" : "Apple12"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple13.png",
+          "name" : "Apple13"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple14.png",
+          "name" : "Apple14"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple15.png",
+          "name" : "Apple15"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple26.png",
+          "name" : "Apple26"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Arch.png",
+          "name" : "Arch"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Artix.png",
+          "name" : "Artix"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "BlackArch.png",
+          "name" : "BlackArch"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Bluestar.png",
+          "name" : "Bluestar"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Bodhi.png",
+          "name" : "Bodhi"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Bunsenlabs.png",
+          "name" : "Bunsenlabs"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "CentOS.png",
+          "name" : "CentOS"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Clear.png",
+          "name" : "Clear"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Debian.png",
+          "name" : "Debian"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Deepin.png",
+          "name" : "Deepin"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "DragonFlyBSD.png",
+          "name" : "DragonFlyBSD"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Elementary.png",
+          "name" : "Elementary"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Endeavour.png",
+          "name" : "Endeavour"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Endless.png",
+          "name" : "Endless"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Fatdog.png",
+          "name" : "Fatdog"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Fedora.png",
+          "name" : "Fedora"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Feren.png",
+          "name" : "Feren"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "FreeBSD.png",
+          "name" : "FreeBSD"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Garuda.png",
+          "name" : "Garuda"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Gentoo.png",
+          "name" : "Gentoo"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "GhostBSD.png",
+          "name" : "GhostBSD"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Kali.png",
+          "name" : "Kali"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Kaos.png",
+          "name" : "Kaos"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "knoppix.png",
+          "name" : "knoppix"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Kubuntu.png",
+          "name" : "Kubuntu"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Legacy.png",
+          "name" : "Legacy"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Linux.png",
+          "name" : "Linux"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Linuxfx_11.png",
+          "name" : "Linuxfx_11"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Lite.png",
+          "name" : "Lite"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Lubuntu.png",
+          "name" : "Lubuntu"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Mabox.png",
+          "name" : "Mabox"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Mageia.png",
+          "name" : "Mageia"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Mandriva.png",
+          "name" : "Mandriva"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Manjaro.png",
+          "name" : "Manjaro"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Mint.png",
+          "name" : "Mint"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "MX.png",
+          "name" : "MX"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Neon.png",
+          "name" : "Neon"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Netrunner.png",
+          "name" : "Netrunner"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Nixos.png",
+          "name" : "Nixos"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "OpenBSD.png",
+          "name" : "OpenBSD"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Openmandriva.png",
+          "name" : "Openmandriva"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Parrot.png",
+          "name" : "Parrot"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "PC.png",
+          "name" : "PC"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Peppermint.png",
+          "name" : "Peppermint"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Phoenix.png",
+          "name" : "Phoenix"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Pop.png",
+          "name" : "Pop"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Puppy.png",
+          "name" : "Puppy"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Q4OS.png",
+          "name" : "Q4OS"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Raspios.png",
+          "name" : "Raspios"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "ReactOS.png",
+          "name" : "ReactOS"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Rebornos.png",
+          "name" : "Rebornos"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Redhat.png",
+          "name" : "Redhat"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Remix.png",
+          "name" : "Remix"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Rosa.png",
+          "name" : "Rosa"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Septor.png",
+          "name" : "Septor"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Slackware.png",
+          "name" : "Slackware"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "SmartOS.png",
+          "name" : "SmartOS"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Solus.png",
+          "name" : "Solus"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "SteamOS.png",
+          "name" : "SteamOS"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Suse.png",
+          "name" : "Suse"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "SystemSettings.png",
+          "name" : "SystemSettings"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Tails.png",
+          "name" : "Tails"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Tinycore.png",
+          "name" : "Tinycore"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Ubuntu_Cinnamon.png",
+          "name" : "Ubuntu_Cinnamon"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Ubuntu_DDE.png",
+          "name" : "Ubuntu_DDE"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Ubuntu_Gnome.png",
+          "name" : "Ubuntu_Gnome"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Ubuntu_Mate.png",
+          "name" : "Ubuntu_Mate"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Ubuntu_Studio.png",
+          "name" : "Ubuntu_Studio"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Ubuntu_Unity.png",
+          "name" : "Ubuntu_Unity"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Ubuntu.png",
+          "name" : "Ubuntu"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "UltimateEdition.png",
+          "name" : "UltimateEdition"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Void.png",
+          "name" : "Void"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Windows.png",
+          "name" : "Windows"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Windows10.png",
+          "name" : "Windows10"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Windows11_Purple.png",
+          "name" : "Windows11_Purple"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Windows11.png",
+          "name" : "Windows11"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Windows11+.png",
+          "name" : "Windows11+"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Xubuntu.png",
+          "name" : "Xubuntu"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Zorin.png",
+          "name" : "Zorin"
+        }
+      ],
+      "name" : "Group_Icons",
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
