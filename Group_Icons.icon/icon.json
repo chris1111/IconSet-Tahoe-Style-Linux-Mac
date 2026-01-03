@@ -415,6 +415,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "rEFInd.png",
+          "name" : "rEFInd"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Remix.png",
           "name" : "Remix"
         },

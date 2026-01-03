@@ -106,7 +106,7 @@
 
 ### Bootloader Icons
 
-<img src="ICON_OUT/Clover.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/OpenCore.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Clover.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/OpenCore.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/rEFInd.png" alt="Github Project" style="width:20%;">
 
 ### Windows Icons
 
