@@ -7,6 +7,11 @@
     {
       "layers" : [
         {
+          "hidden" : true,
+          "image-name" : "Absolute.png",
+          "name" : "Absolute"
+        },
+        {
           "blend-mode" : "normal",
           "fill" : "automatic",
           "hidden" : true,
@@ -180,6 +185,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Chakra.png",
+          "name" : "Chakra"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Clear.png",
           "name" : "Clear"
         },
@@ -187,6 +197,11 @@
           "hidden" : true,
           "image-name" : "Clover.png",
           "name" : "Clover"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Crunchbang.png",
+          "name" : "Crunchbang"
         },
         {
           "hidden" : true,
@@ -340,6 +355,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "NetBSD.png",
+          "name" : "NetBSD"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Netrunner.png",
           "name" : "Netrunner"
         },
@@ -362,6 +382,11 @@
           "hidden" : true,
           "image-name" : "Openmandriva.png",
           "name" : "Openmandriva"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Parabola.png",
+          "name" : "Parabola"
         },
         {
           "hidden" : true,
@@ -432,6 +457,11 @@
           "hidden" : true,
           "image-name" : "Rosa.png",
           "name" : "Rosa"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Sabayon.png",
+          "name" : "Sabayon"
         },
         {
           "hidden" : true,

@@ -1,7 +1,8 @@
 ## View Set
 ### Linux Icons
 
-<img src="ICON_OUT/Alma.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/Alpine.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Absolute.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/Alma.png" alt="Github Project" style="width:20%;"> 
+<img src="ICON_OUT/Alpine.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Altlinux.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Antergos.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Antix.png" alt="Github Project" style="width:20%;">
@@ -12,7 +13,9 @@
 <img src="ICON_OUT/Bodhi.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Bunsenlabs.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/CentOS.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Chakra.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Clear.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Crunchbang.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Debian.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Deepin.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/DragonFlyBSD.png" alt="Github Project" style="width:20%;">
@@ -42,10 +45,12 @@
 <img src="ICON_OUT/Mint.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/MX.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Neon.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/NetBSD.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Netrunner.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Nixos.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/OpenBSD.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Openmandriva.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Parabola.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Parrot.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/PC.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Peppermint.png" alt="Github Project" style="width:20%;">
@@ -59,6 +64,7 @@
 <img src="ICON_OUT/Redhat.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Remix.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Rosa.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Sabayon.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Septor.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Slackware.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/SmartOS.png" alt="Github Project" style="width:20%;">
