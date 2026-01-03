@@ -13,7 +13,6 @@
 <img src="ICON_OUT/Bunsenlabs.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/CentOS.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Clear.png" alt="Github Project" style="width:20%;">
-<img src="ICON_OUT/Clover.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Debian.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Deepin.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/DragonFlyBSD.png" alt="Github Project" style="width:20%;">
@@ -46,7 +45,6 @@
 <img src="ICON_OUT/Netrunner.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Nixos.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/OpenBSD.png" alt="Github Project" style="width:20%;">
-<img src="ICON_OUT/OpenCore.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Openmandriva.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Parrot.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/PC.png" alt="Github Project" style="width:20%;">
@@ -105,6 +103,10 @@
 <img src="ICON_OUT/Apple15.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/SystemSettings.png" alt="Github Project" style="width:20%;">
+
+### Bootloader Icons
+
+<img src="ICON_OUT/Clover.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/OpenCore.png" alt="Github Project" style="width:20%;">
 
 ### Windows Icons
 
