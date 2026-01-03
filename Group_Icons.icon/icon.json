@@ -525,6 +525,16 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Windows90.png",
+          "name" : "Windows90"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Windows95.png",
+          "name" : "Windows95"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Windows.png",
           "name" : "Windows"
         },
@@ -547,6 +557,11 @@
           "hidden" : true,
           "image-name" : "Windows11+.png",
           "name" : "Windows11+"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Windows_Vista.png",
+          "name" : "Windows_Vista"
         },
         {
           "hidden" : true,
