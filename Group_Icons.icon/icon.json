@@ -255,6 +255,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "GRUB.png",
+          "name" : "GRUB"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Kali.png",
           "name" : "Kali"
         },
