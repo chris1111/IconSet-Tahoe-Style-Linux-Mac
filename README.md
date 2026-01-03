@@ -11,7 +11,7 @@ Icon Set Linux, Windows and Mac; built in Tahoe Style Liquid Glass Effects.
 ### Suggestions of Icon to Add ➥ [Suggestions](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/discussions/2)
 --------------------------------------
 <img src="ICON_OUT/Garuda.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/BlackArch.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Fatdog.png" alt="Github Project" style="width:25%;">
-<img src="ICON_OUT/Debian.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/FreeBSD.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Kali.png" alt="Github Project" style="width:25%;">
+<img src="ICON_OUT/SteamOS.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/FreeBSD.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Kali.png" alt="Github Project" style="width:25%;">
 
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple15.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple14.png" alt="Github Project" style="width:25%;"> 
 <img src="ICON_OUT/Apple13.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple12.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple11_Dark.png" alt="Github Project" style="width:25%;">
