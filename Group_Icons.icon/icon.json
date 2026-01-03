@@ -190,6 +190,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Chrome.png",
+          "name" : "Chrome"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Clear.png",
           "name" : "Clear"
         },

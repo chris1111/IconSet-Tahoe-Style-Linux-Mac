@@ -14,6 +14,7 @@
 <img src="ICON_OUT/Bunsenlabs.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/CentOS.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Chakra.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Chrome.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Clear.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Crunchbang.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Debian.png" alt="Github Project" style="width:20%;">
