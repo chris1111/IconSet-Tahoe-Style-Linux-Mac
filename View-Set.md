@@ -106,7 +106,7 @@
 ### Windows Icons
 
 <img src="Group_Icons.icon/Assets/Windows.png" alt="Github Project" style="width:20%;"> <img src="Group_Icons.icon/Assets/Windows11.png" alt="Github Project" style="width:20%;">
-<img src="Group_Icons.icon/Assets/Windows10.png" alt="Github Project" style="width:20%;">
-<img src="Group_Icons.icon/Assets/Windows11+.png" alt="Github Project" style="width:20%;">
+<img src="Group_Icons.icon/Assets/Windows10.png" alt="Github Project" style="width:20%;"> <img src="Group_Icons.icon/Assets/Windows11+.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/Windows11_Purple.png" alt="Github Project" style="width:20%;">
+
 [Back On ➦ Top](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-Set.md#view-set)
