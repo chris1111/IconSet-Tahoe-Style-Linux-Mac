@@ -185,6 +185,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Clover.png",
+          "name" : "Clover"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Debian.png",
           "name" : "Debian"
         },
@@ -342,6 +347,11 @@
           "hidden" : true,
           "image-name" : "OpenBSD.png",
           "name" : "OpenBSD"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "OpenCore.png",
+          "name" : "OpenCore"
         },
         {
           "hidden" : true,

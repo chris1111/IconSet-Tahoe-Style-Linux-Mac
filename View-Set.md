@@ -13,6 +13,7 @@
 <img src="Group_Icons.icon/Assets/Bunsenlabs.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/CentOS.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/Clear.png" alt="Github Project" style="width:20%;">
+<img src="Group_Icons.icon/Assets/Clover.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/Debian.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/Deepin.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/DragonFlyBSD.png" alt="Github Project" style="width:20%;">
@@ -45,6 +46,7 @@
 <img src="Group_Icons.icon/Assets/Netrunner.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/Nixos.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/OpenBSD.png" alt="Github Project" style="width:20%;">
+<img src="Group_Icons.icon/Assets/OpenCore.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/Openmandriva.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/Parrot.png" alt="Github Project" style="width:20%;">
 <img src="Group_Icons.icon/Assets/PC.png" alt="Github Project" style="width:20%;">
