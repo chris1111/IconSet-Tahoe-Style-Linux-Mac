@@ -1,7 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/LICENSE)
 
 # IconSet-Tahoe-Style-Linux-Mac-Windows
-Icon Set Linux, Windows and Mac; built in Tahoe Style Liquid Glass Effects Built from ➤ [Icon Composer](https://developer.apple.com/documentation/Xcode/creating-your-app-icon-using-icon-composer)
+Icon Set Linux, Windows and Mac; built in Tahoe Style Liquid Glass Effects 
+- Built from ➤ [Icon Composer](https://developer.apple.com/documentation/Xcode/creating-your-app-icon-using-icon-composer)
 ### View ➥ [Full Set](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-Set.md)
 ### Downloads ➦ [IconSet-Tahoe-Style-Linux-Mac-Windows](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/archive/refs/heads/main.zip)
 
