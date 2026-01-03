@@ -6,8 +6,8 @@ Icon Set Linux, Windows and Mac; built in Tahoe Style Liquid Glass Effects
 ### View ➥ [Full Set](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-Set.md)
 ### Downloads ➦ [Repository](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/archive/refs/heads/main.zip)
 
-<img src="Group_Icons.icon/Assets/Garuda.png" alt="Github Project" style="width:25%;"> <img src="Group_Icons.icon/Assets/BlackArch.png" alt="Github Project" style="width:25%;"> <img src="Group_Icons.icon/Assets/Fatdog.png" alt="Github Project" style="width:25%;">
-<img src="Group_Icons.icon/Assets/Debian.png" alt="Github Project" style="width:25%;"> <img src="Group_Icons.icon/Assets/FreeBSD.png" alt="Github Project" style="width:25%;"> <img src="Group_Icons.icon/Assets/Kali.png" alt="Github Project" style="width:25%;">
+<img src="ICON_OUT/Garuda.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/BlackArch.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Fatdog.png" alt="Github Project" style="width:25%;">
+<img src="ICON_OUT/Debian.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/FreeBSD.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Kali.png" alt="Github Project" style="width:25%;">
 
-<img src="Group_Icons.icon/Assets/Apple26.png" alt="Github Project" style="width:25%;"> <img src="Group_Icons.icon/Assets/Apple15.png" alt="Github Project" style="width:25%;"> <img src="Group_Icons.icon/Assets/Apple14.png" alt="Github Project" style="width:25%;"> 
-<img src="Group_Icons.icon/Assets/Apple13.png" alt="Github Project" style="width:25%;"> <img src="Group_Icons.icon/Assets/Apple12.png" alt="Github Project" style="width:25%;"> <img src="Group_Icons.icon/Assets/Apple11_Dark.png" alt="Github Project" style="width:25%;">
+<img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple15.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple14.png" alt="Github Project" style="width:25%;"> 
+<img src="ICON_OUT/Apple13.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple12.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple11_Dark.png" alt="Github Project" style="width:25%;">
