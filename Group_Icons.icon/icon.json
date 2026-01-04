@@ -410,6 +410,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Parted_Magic.png",
+          "name" : "Parted_Magic"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Peppermint.png",
           "name" : "Peppermint"
         },

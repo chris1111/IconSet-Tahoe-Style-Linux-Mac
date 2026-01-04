@@ -55,6 +55,7 @@
 <img src="ICON_OUT/Parabola.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Parrot.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/PC.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Parted_Magic.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Peppermint.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Phoenix.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Pop.png" alt="Github Project" style="width:20%;">
