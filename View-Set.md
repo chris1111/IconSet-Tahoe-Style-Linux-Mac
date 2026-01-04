@@ -30,6 +30,7 @@
 <img src="ICON_OUT/Garuda.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Gentoo.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/GhostBSD.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Haiku.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Kali.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Kaos.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/knoppix.png" alt="Github Project" style="width:20%;">

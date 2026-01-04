@@ -280,6 +280,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Haiku.png",
+          "name" : "Haiku"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Kali.png",
           "name" : "Kali"
         },
