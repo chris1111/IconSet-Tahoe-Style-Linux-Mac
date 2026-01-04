@@ -61,6 +61,7 @@
 <img src="ICON_OUT/Pop.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Puppy.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Q4OS.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Qubes.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Raspios.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/ReactOS.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Rebornos.png" alt="Github Project" style="width:20%;">

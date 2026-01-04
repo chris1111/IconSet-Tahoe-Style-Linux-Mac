@@ -465,6 +465,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Qubes.png",
+          "name" : "Q4OS"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Raspios.png",
           "name" : "Raspios"
         },
