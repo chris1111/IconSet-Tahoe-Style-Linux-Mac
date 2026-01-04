@@ -280,6 +280,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "FireFoxOS.png",
+          "name" : "FireFoxOS"
+        },
+        {
+          "hidden" : true,
           "image-name" : "FreeBSD.png",
           "name" : "FreeBSD"
         },
