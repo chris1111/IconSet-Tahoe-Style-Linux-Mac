@@ -106,10 +106,15 @@
 <img src="ICON_OUT/Apple10_15.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple11_Dark.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple11.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Apple12_Dark.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple12.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Apple13_Dark.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple13.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Apple14_Dark.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple14.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Apple15_Dark.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple15.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Apple26_Dark.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/SystemSettings.png" alt="Github Project" style="width:20%;">
 

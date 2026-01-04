@@ -125,8 +125,18 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Apple12_Dark.png",
+          "name" : "Apple12_Dark"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Apple12.png",
           "name" : "Apple12"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple13_Dark.png",
+          "name" : "Apple13_Dark"
         },
         {
           "hidden" : true,
@@ -135,13 +145,28 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Apple14_Dark.png",
+          "name" : "Apple14_Dark"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Apple14.png",
           "name" : "Apple14"
         },
         {
           "hidden" : true,
+          "image-name" : "Apple15_Dark.png",
+          "name" : "Apple15_Dark"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Apple15.png",
           "name" : "Apple15"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Apple26_Dark.png",
+          "name" : "Apple26_Dark"
         },
         {
           "hidden" : true,
