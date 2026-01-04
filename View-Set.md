@@ -26,6 +26,7 @@
 <img src="ICON_OUT/Fatdog.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Fedora.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Feren.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/FireFoxOS.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/FreeBSD.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Garuda.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Gentoo.png" alt="Github Project" style="width:20%;">
