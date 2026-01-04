@@ -420,6 +420,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Oracle_Linux.png",
+          "name" : "Oracle_Linux"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Parabola.png",
           "name" : "Parabola"
         },
@@ -466,7 +471,7 @@
         {
           "hidden" : true,
           "image-name" : "Qubes.png",
-          "name" : "Q4OS"
+          "name" : "Qubes"
         },
         {
           "hidden" : true,

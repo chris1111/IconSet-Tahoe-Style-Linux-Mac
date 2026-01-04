@@ -52,6 +52,7 @@
 <img src="ICON_OUT/Nixos.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/OpenBSD.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Openmandriva.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Oracle_Linux.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Parabola.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Parrot.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/PC.png" alt="Github Project" style="width:20%;">
