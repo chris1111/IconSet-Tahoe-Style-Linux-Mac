@@ -325,6 +325,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "KDE.png",
+          "name" : "KDE"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Knoppix.png",
           "name" : "Knoppix"
         },

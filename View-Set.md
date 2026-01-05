@@ -34,6 +34,7 @@
 <img src="ICON_OUT/Haiku.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Kali.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Kaos.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/KDE.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/knoppix.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Kubuntu.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Legacy.png" alt="Github Project" style="width:20%;">
