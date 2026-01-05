@@ -525,6 +525,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Scientific.png",
+          "name" : "Scientific"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Septor.png",
           "name" : "Septor"
         },
