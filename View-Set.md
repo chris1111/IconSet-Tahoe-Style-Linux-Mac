@@ -72,6 +72,7 @@
 <img src="ICON_OUT/Remix.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Rosa.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Sabayon.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Scientific.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Septor.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Slackware.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/SmartOS.png" alt="Github Project" style="width:20%;">
