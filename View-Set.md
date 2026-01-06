@@ -17,6 +17,7 @@
 <img src="ICON_OUT/Chrome.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Clear.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Crunchbang.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Cyborg.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Debian.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Deepin.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/DragonFlyBSD.png" alt="Github Project" style="width:20%;">
@@ -53,12 +54,14 @@
 <img src="ICON_OUT/Netrunner.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Nixos.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/OpenBSD.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/OpenGEU.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Openmandriva.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Oracle_Linux.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Parabola.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Parrot.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/PC.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Parted_Magic.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Pear.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Peppermint.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Phoenix.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Pop.png" alt="Github Project" style="width:20%;">
@@ -90,6 +93,7 @@
 <img src="ICON_OUT/Ubuntu.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/UltimateEdition.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Void.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/VZ.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Xubuntu.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Zorin.png" alt="Github Project" style="width:20%;">
 

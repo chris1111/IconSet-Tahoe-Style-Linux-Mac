@@ -235,6 +235,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Cyborg.png",
+          "name" : "Cyborg"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Debian.png",
           "name" : "Debian"
         },
@@ -425,6 +430,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "OpenGEU.png",
+          "name" : "OpenGEU"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Openmandriva.png",
           "name" : "Openmandriva"
         },
@@ -452,6 +462,11 @@
           "hidden" : true,
           "image-name" : "Parted_Magic.png",
           "name" : "Parted_Magic"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Pear.png",
+          "name" : "Pear"
         },
         {
           "hidden" : true,
@@ -617,6 +632,11 @@
           "hidden" : true,
           "image-name" : "Void.png",
           "name" : "Void"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "VZ.png",
+          "name" : "VZ"
         },
         {
           "hidden" : true,
