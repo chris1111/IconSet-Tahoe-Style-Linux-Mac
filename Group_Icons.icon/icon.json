@@ -233,6 +233,11 @@
           "image-name" : "Crunchbang.png",
           "name" : "Crunchbang"
         },
+         {
+          "hidden" : true,
+          "image-name" : "Crux.png",
+          "name" : "Crux"
+        },
         {
           "hidden" : true,
           "image-name" : "Cyborg.png",
