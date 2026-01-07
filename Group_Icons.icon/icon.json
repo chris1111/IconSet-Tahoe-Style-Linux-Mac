@@ -40,6 +40,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Asahi.png",
+          "name" : "Asahi"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Apple10_4.png",
           "name" : "Apple10_4"
         },
@@ -233,7 +238,7 @@
           "image-name" : "Crunchbang.png",
           "name" : "Crunchbang"
         },
-         {
+        {
           "hidden" : true,
           "image-name" : "Crux.png",
           "name" : "Crux"
@@ -570,6 +575,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Sparky.png",
+          "name" : "Sparky"
+        },
+        {
+          "hidden" : true,
           "image-name" : "SteamOS.png",
           "name" : "SteamOS"
         },
@@ -632,6 +642,11 @@
           "hidden" : true,
           "image-name" : "UltimateEdition.png",
           "name" : "UltimateEdition"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Ultramarine.png",
+          "name" : "Ultramarine"
         },
         {
           "hidden" : true,

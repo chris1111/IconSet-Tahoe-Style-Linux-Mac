@@ -8,6 +8,7 @@
 <img src="ICON_OUT/Antix.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Arch.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Artix.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Asahi.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/BlackArch.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Bluestar.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Bodhi.png" alt="Github Project" style="width:20%;">
@@ -79,6 +80,7 @@
 <img src="ICON_OUT/Scientific.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Septor.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Slackware.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Sparky.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/SmartOS.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Solus.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/SteamOS.png" alt="Github Project" style="width:20%;">
@@ -93,6 +95,7 @@
 <img src="ICON_OUT/Ubuntu_Unity.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Ubuntu.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/UltimateEdition.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Ultramarine.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Void.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/VZ.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Xubuntu.png" alt="Github Project" style="width:20%;">
