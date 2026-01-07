@@ -1,5 +1,5 @@
 ## View Set
-### Linux Icons
+### 100 Linux Icons
 
 <img src="ICON_OUT/Absolute.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/Alma.png" alt="Github Project" style="width:20%;"> 
 <img src="ICON_OUT/Alpine.png" alt="Github Project" style="width:20%;">
@@ -101,7 +101,7 @@
 <img src="ICON_OUT/Xubuntu.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Zorin.png" alt="Github Project" style="width:20%;">
 
-### Mac Icons
+### 28 Mac Icons
 
 <img src="ICON_OUT/Apple10_4.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/Apple10_5.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple10_6.png" alt="Github Project" style="width:20%;">
@@ -131,11 +131,11 @@
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/SystemSettings.png" alt="Github Project" style="width:20%;">
 
-### Bootloader Icons
+### 4 Bootloader Icons
 
 <img src="ICON_OUT/Clover.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/GRUB.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/OpenCore.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/rEFInd.png" alt="Github Project" style="width:20%;">
 
-### Windows Icons
+### 8 Windows Icons
 
 <img src="ICON_OUT/Windows.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/Windows11.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Windows10.png" alt="Github Project" style="width:20%;"> 
