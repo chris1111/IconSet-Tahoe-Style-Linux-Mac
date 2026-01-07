@@ -9,10 +9,13 @@ The images inside `Group_Icons.icon` are those created in full size, `ICON_OUT` 
 ### Downloads ➦ [Repository](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/archive/refs/heads/main.zip)
 
 ### Discussions ➥ [Discussions](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/discussions) - Suggestions of Icon to Add ➥ [Suggestions](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/discussions/2)
-### <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac">IconSet-Tahoe-Style-Linux-Mac</a> © 2026 by <a href="https://github.com/chris1111">chris1111</a> is licensed under <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/LICENSE">MIT</a>
 --------------------------------------
+
 <img src="ICON_OUT/Zorin.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/BlackArch.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Garuda.png" alt="Github Project" style="width:25%;">
 <img src="ICON_OUT/Parrot.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/FreeBSD.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Kali.png" alt="Github Project" style="width:25%;">
+
 --------------------------------------
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple15.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple14.png" alt="Github Project" style="width:25%;"> 
 <img src="ICON_OUT/Apple13.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple12.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple11_Dark.png" alt="Github Project" style="width:25%;">
+### <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac">IconSet-Tahoe-Style-Linux-Mac</a> © 2026 by <a href="https://github.com/chris1111">chris1111</a> is licensed under <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/LICENSE">MIT</a>
+--------------------------------------
