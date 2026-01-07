@@ -13,6 +13,6 @@ The images inside `Group_Icons.icon` are those created in full size, `ICON_OUT` 
 --------------------------------------
 <img src="ICON_OUT/Zorin.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/BlackArch.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Garuda.png" alt="Github Project" style="width:25%;">
 <img src="ICON_OUT/Parrot.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/FreeBSD.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Kali.png" alt="Github Project" style="width:25%;">
-
+--------------------------------------
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple15.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple14.png" alt="Github Project" style="width:25%;"> 
 <img src="ICON_OUT/Apple13.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple12.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple11_Dark.png" alt="Github Project" style="width:25%;">
