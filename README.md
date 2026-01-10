@@ -17,4 +17,5 @@ The images inside `Group_Icons.icon/Assets` are those created in full size, `ICO
 --------------------------------------
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple15.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple14.png" alt="Github Project" style="width:25%;"> 
 <img src="ICON_OUT/Apple13.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple12.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple11_Dark.png" alt="Github Project" style="width:25%;">
+<img src="Apple_Build/Apple11.png" alt="Github Project" style="width:25%;"> <img src="Apple_Build/Apple13.png" alt="Github Project" style="width:25%;"> <img src="Apple_Build/Apple26.png" alt="Github Project" style="width:25%;">
 ### <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac">IconSet-Tahoe-Style-Linux-Mac</a> © 2026 by <a href="https://github.com/chris1111">chris1111</a> is licensed under <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/LICENSE">MIT</a>
