@@ -3,7 +3,6 @@
 # IconSet-Tahoe-Style-Linux-Mac-Windows 
 Icon Set Linux, Windows and Mac; built in Tahoe Style Liquid Glass Effects. 
 ### View 🔎 ➥ [Full Icon Set](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-Set.md)
-### View 🔎 ➥ [Apple Icon Set](https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-AppleIcon.md)
 Its Built from ➤ [Icon Composer](https://developer.apple.com/documentation/Xcode/creating-your-app-icon-using-icon-composer)
 
 The images inside `Group_Icons.icon/Assets` are those created in full size, `ICON_OUT, Apple_Build` are those created in Tahoe Style.

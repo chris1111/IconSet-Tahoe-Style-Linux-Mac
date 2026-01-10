@@ -131,6 +131,27 @@
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/SystemSettings.png" alt="Github Project" style="width:20%;">
 
+### 17 Apple Icons
+
+<img src="Apple_Build/Apple10_4.png" alt="Github Project" style="width:20%;"> <img src="Apple_Build/Apple10_5.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_6.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_7.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_8.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_9.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_10.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_11.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_12.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_13.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_14.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_15.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple11.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple12.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple13.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple14.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple15.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple26.png" alt="Github Project" style="width:20%;">
+
+
 ### 4 Bootloader Icons
 
 <img src="ICON_OUT/Clover.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/GRUB.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/OpenCore.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/rEFInd.png" alt="Github Project" style="width:20%;">
