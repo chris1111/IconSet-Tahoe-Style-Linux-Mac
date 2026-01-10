@@ -131,9 +131,10 @@
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/SystemSettings.png" alt="Github Project" style="width:20%;">
 
-### 18 Apple Icons
+### 19 Apple Icons
 
-<img src="Apple_Build/Apple10_4.png" alt="Github Project" style="width:20%;"> <img src="Apple_Build/Apple10_5.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple.png" alt="Github Project" style="width:20%;"> <img src="Apple_Build/Apple10_4.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple10_5.png" alt="Github Project" style="width:20%;">
 <img src="Apple_Build/Apple10_6.png" alt="Github Project" style="width:20%;">
 <img src="Apple_Build/Apple10_7.png" alt="Github Project" style="width:20%;">
 <img src="Apple_Build/Apple10_8.png" alt="Github Project" style="width:20%;">
