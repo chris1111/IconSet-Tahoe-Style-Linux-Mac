@@ -45,6 +45,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "AppleTM.png",
+          "name" : "AppleTM"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Apple10_4.png",
           "name" : "Apple10_4"
         },
@@ -278,6 +283,11 @@
           "image-name" : "Endless.png",
           "name" : "Endless"
         },
+         {
+          "hidden" : true,
+          "image-name" : "ExtHarDrive.png",
+          "name" : "ExtHarDrive.png"
+        },
         {
           "hidden" : true,
           "image-name" : "Fatdog.png",
@@ -322,6 +332,11 @@
           "hidden" : true,
           "image-name" : "GRUB.png",
           "name" : "GRUB"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "HardDrive.png",
+          "name" : "HardDrive"
         },
         {
           "hidden" : true,
@@ -507,6 +522,11 @@
           "hidden" : true,
           "image-name" : "Qubes.png",
           "name" : "Qubes"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Removable.png",
+          "name" : "Removable"
         },
         {
           "hidden" : true,
