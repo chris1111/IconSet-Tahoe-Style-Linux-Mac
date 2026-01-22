@@ -129,11 +129,11 @@
 <img src="ICON_OUT/Apple15.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple26_Dark.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:20%;">
-<img src="ICON_OUT/HardDrive.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/SystemSettings.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/AppleTM.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/HardDrive.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/ExtHarDrive.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Removable.png" alt="Github Project" style="width:20%;">
-<img src="ICON_OUT/SystemSettings.png" alt="Github Project" style="width:20%;">
 
 ### 20 Apple Icons
 
