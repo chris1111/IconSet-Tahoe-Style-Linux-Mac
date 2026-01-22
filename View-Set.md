@@ -101,7 +101,7 @@
 <img src="ICON_OUT/Xubuntu.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Zorin.png" alt="Github Project" style="width:20%;">
 
-### 28 Mac Icons
+### 32 Mac Icons
 
 <img src="ICON_OUT/Apple10_4.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/Apple10_5.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple10_6.png" alt="Github Project" style="width:20%;">
