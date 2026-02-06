@@ -283,7 +283,7 @@
           "image-name" : "Endless.png",
           "name" : "Endless"
         },
-         {
+        {
           "hidden" : true,
           "image-name" : "ExtHarDrive.png",
           "name" : "ExtHarDrive.png"
@@ -372,6 +372,11 @@
           "hidden" : true,
           "image-name" : "Legacy.png",
           "name" : "Legacy"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Linux_Alt.png",
+          "name" : "Linux_Alt"
         },
         {
           "hidden" : true,

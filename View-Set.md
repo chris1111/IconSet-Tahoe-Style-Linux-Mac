@@ -41,6 +41,7 @@
 <img src="ICON_OUT/knoppix.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Kubuntu.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Legacy.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Linux_Alt.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Linux.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Linuxfx_11.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Lite.png" alt="Github Project" style="width:20%;">
