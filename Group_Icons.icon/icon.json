@@ -250,6 +250,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Cub_Linux.png",
+          "name" : "Cub_Linux"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Cyborg.png",
           "name" : "Cyborg"
         },
@@ -272,6 +277,11 @@
           "hidden" : true,
           "image-name" : "Elementary.png",
           "name" : "Elementary"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Elive.png",
+          "name" : "Elive"
         },
         {
           "hidden" : true,
@@ -612,6 +622,11 @@
           "hidden" : true,
           "image-name" : "Suse.png",
           "name" : "Suse"
+        },
+        {
+          "hidden" : true,
+          "image-name" : "System_Rescue.png",
+          "name" : "System_Rescue"
         },
         {
           "hidden" : true,
