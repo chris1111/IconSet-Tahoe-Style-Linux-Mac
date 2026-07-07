@@ -185,6 +185,11 @@
         },
         {
           "hidden" : true,
+          "image-name" : "Apple27.png",
+          "name" : "Apple27"
+        },
+        {
+          "hidden" : true,
           "image-name" : "Arch.png",
           "name" : "Arch"
         },

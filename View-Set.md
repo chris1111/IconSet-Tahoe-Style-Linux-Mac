@@ -105,7 +105,7 @@
 <img src="ICON_OUT/Xubuntu.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Zorin.png" alt="Github Project" style="width:20%;">
 
-### 32 Mac Icons
+### 33 Mac Icons
 
 <img src="ICON_OUT/Apple10_4.png" alt="Github Project" style="width:20%;"> <img src="ICON_OUT/Apple10_5.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple10_6.png" alt="Github Project" style="width:20%;">
@@ -133,13 +133,14 @@
 <img src="ICON_OUT/Apple15.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple26_Dark.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:20%;">
+<img src="ICON_OUT/Apple27.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/SystemSettings.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/AppleTM.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/HardDrive.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/ExtHarDrive.png" alt="Github Project" style="width:20%;">
 <img src="ICON_OUT/Removable.png" alt="Github Project" style="width:20%;">
 
-### 28 Apple Icons
+### 29 Apple Icons
 
 <img src="Apple_Build/Apple.png" alt="Github Project" style="width:20%;"> <img src="Apple_Build/Apple10_4.png" alt="Github Project" style="width:20%;">
 <img src="Apple_Build/Apple10_5.png" alt="Github Project" style="width:20%;">
@@ -167,6 +168,7 @@
 <img src="Apple_Build/Apple15_Dark.png" alt="Github Project" style="width:20%;">
 <img src="Apple_Build/Apple26.png" alt="Github Project" style="width:20%;">
 <img src="Apple_Build/Apple26_Dark.png" alt="Github Project" style="width:20%;">
+<img src="Apple_Build/Apple27.png" alt="Github Project" style="width:20%;">
 <img src="Apple_Build/macOS.png" alt="Github Project" style="width:20%;">
 
 
