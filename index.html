@@ -1,347 +1,598 @@
-<!doctype html>
-<!-- Created with GFM2HTML: https://github.com/rvagg/gfm2html -->
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title></title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="created-with" content="https://github.com/rvagg/gfm2html">
-    <body style="background-color:#2d313a;">
-    <style type="text/css">
-/* most of normalize.css */
-article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block;}[hidden],template{display:none;}html{font-family:sans-serif;/*1*/-ms-text-size-adjust:100%;/*2*/-webkit-text-size-adjust:100%;/*2*/}body{margin:0;}a{background:transparent;}a:focus{outline:thindotted;}a:active,a:hover{outline:0;}h1{font-size:2em;margin:0.67em0;}abbr[title]{border-bottom:1pxdotted;}b,strong{font-weight:bold;}dfn{font-style:italic;}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0;}mark{background:#ff0;color:#000;}code,kbd,pre,samp{font-family:monospace,serif;font-size:1em;}pre{white-space:pre-wrap;}q{quotes:"\201C""\201D""\2018""\2019";}small{font-size:80%;}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}sup{top:-0.5em;}sub{bottom:-0.25em;}img{border:0;}svg:not(:root){overflow:hidden;}table{border-collapse:collapse;border-spacing:0;}
-
-html {
-  font: 14px 'Helvetica Neue', Helvetica, arial, freesans, clean, sans-serif;
-}
-
-.container {
-  line-height: 1.6;
-  color: #333;
-  background: #eee;
-  border-radius: 3px;
-  padding: 3px;
-  width: 790px;
-  margin: 10px auto;
-}
-
-.body-content {
-  background-color: #fff;
-  border: 1px solid #CACACA;
-  padding: 30px;
-}
-
-.body-content > *:first-child {
-  margin-top: 0 !important;
-}
-
-a, a:visited {
-  color: #4183c4;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-p, blockquote, ul, ol, dl, table, pre {
-  margin: 15px 0;
-}
-
-  .markdown-body h1
-, .markdown-body h2
-, .markdown-body h3
-, .markdown-body h4
-, .markdown-body h5
-, .markdown-body h6 {
-  margin: 20px 0 10px;
-  padding: 0;
-  font-weight: bold;
-}
-
-h1 {
-  font-size: 2.5em;
-  color: #000;
-  border-bottom: 1px solid #ddd;
-}
-
-h2 {
-  font-size: 2em;
-  border-bottom: 1px solid #eee;
-  color: #000;
-}
-
-img {
-  max-width: 100%;
-}
-
-hr {
-  background: transparent url("/img/hr.png") repeat-x 0 0;
-  border: 0 none;
-  color: #ccc;
-  height: 4px;
-  padding: 0;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-tr:nth-child(2n) {
-  background-color: #f8f8f8;
-}
-
-.markdown-body tr {
-  border-top: 1px solid #ccc;
-  background-color: #fff;
-}
-
-td, th {
-  border: 1px solid #ccc;
-  padding: 6px 13px;
-}
-
-th {
-  font-weight: bold;
-}
-
-blockquote {
-  border-left: 4px solid #ddd;
-  padding: 0 15px;
-  color: #777;
-}
-
-blockquote > :last-child, blockquote > :first-child {
-  margin-bottom: 0px;
-}
-
-pre, code {
-  font-size: 13px;
-  font-family: 'UbuntuMono', monospace;
-  white-space: nowrap;
-  margin: 0 2px;
-  padding: 0px 5px;
-  border: 1px solid #eaeaea;
-  background-color: #f8f8f8;
-  border-radius: 3px;
-}
-
-pre > code {
-  white-space: pre;
-}
-
-pre {
-  overflow-x: auto;
-  white-space: pre;
-  padding: 10px;
-  line-height: 150%;
-  background-color: #f8f8f8;
-  border-color: #ccc;
-}
-
-pre code, pre tt {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  background-color: transparent;
-  border: none;
-}
-
-  .highlight .c
-, .highlight .cm
-, .highlight .cp
-, .highlight .c1 {
-    color:#999988;
-    font-style:italic;
-}
-
-.highlight .err {
-  color:#a61717;
-  background-color:#e3d2d2
-}
-
-  .highlight .o
-, .highlight .gs
-, .highlight .kc
-, .highlight .kd
-, .highlight .kn
-, .highlight .kp
-, .highlight .kr {
-    font-weight:bold
-}
-
-.highlight .cs {
-  color:#999999;
-  font-weight:bold;
-  font-style:italic
-}
-
-.highlight .gd {
-  color:#000000;
-  background-color:#ffdddd
-}
-
-.highlight .gd .x {
-  color:#000000;
-  background-color:#ffaaaa
-}
-
-.highlight .ge {
-  font-style:italic
-}
-
-  .highlight .gr
-, .highlight .gt {
-    color:#aa0000
-}
-
-  .highlight .gh
-, .highlight .bp {
-    color:#999999
-}
-
-.highlight .gi {
-  color:#000000;
-  background-color:#ddffdd
-}
-
-.highlight .gi .x {
-  color:#000000;
-  background-color:#aaffaa
-}
-
-.highlight .go {
-  color:#888888
-}
-
-  .highlight .gp
-, .highlight .nn {
-    color:#555555
-}
-
-
-.highlight .gu {
-  color:#800080;
-  font-weight:bold
-}
-
-
-.highlight .kt {
-  color:#445588;
-  font-weight:bold
-}
-
-  .highlight .m
-, .highlight .mf
-, .highlight .mh
-, .highlight .mi
-, .highlight .mo
-, .highlight .il {
-    color:#009999
-}
-
-  .highlight .s
-, .highlight .sb
-, .highlight .sc
-, .highlight .sd
-, .highlight .s2
-, .highlight .se
-, .highlight .sh
-, .highlight .si
-, .highlight .sx
-, .highlight .s1 {
-    color:#d14
-}
-
-.highlight .n {
-  color:#333333
-}
-
-  .highlight .na
-, .highlight .no
-, .highlight .nv
-, .highlight .vc
-, .highlight .vg
-, .highlight .vi
-, .highlight .nb {
-    color:#0086B3
-}
-
-.highlight .nc {
-  color:#445588;
-  font-weight:bold
-}
-
-.highlight .ni {
-  color:#800080
-}
-
-  .highlight .ne
-, .highlight .nf {
-    color:#990000;
-    font-weight:bold
-}
-
-.highlight .nt {
-  color:#000080
-}
-
-.highlight .ow {
-  font-weight:bold
-}
-
-.highlight .w {
-  color:#bbbbbb
-}
-
-.highlight .sr {
-  color:#009926
-}
-
-.highlight .ss {
-  color:#990073
-}
-
-.highlight .gc {
-  color:#999;
-  background-color:#EAF2F5
-}
-
-@media print {
-  .container {
-    background: transparent;
-    border-radius: 0;
-    padding: 0;
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IconSet Tahoe Style — Linux · Mac · Windows</title>
+<meta name="description" content="Icon Set Linux, Windows and Mac — built in Tahoe Style Liquid Glass Effects.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🖼️</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#05060c;
+    --glass:rgba(255,255,255,.05);
+    --border:rgba(255,255,255,.09);
+    --text:#e9ebf4;
+    --muted:#98a1b6;
+    --violet:#8b5cf6;
+    --blue:#3b82f6;
+    --cyan:#22d3ee;
+    --grad:linear-gradient(120deg,#a78bfa,#60a5fa 45%,#22d3ee);
   }
-
-  .body-content {
-    border: none;
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+    background:var(--bg);color:var(--text);
+    overflow-x:hidden;-webkit-font-smoothing:antialiased;
   }
-}
+  ::selection{background:rgba(139,92,246,.45)}
+
+  /* ── Ambient background ─────────────────────────── */
+  body::before{content:"";position:fixed;inset:0;z-index:-2;pointer-events:none;
+    background:radial-gradient(60% 50% at 50% 0%,rgba(124,58,237,.20),transparent 70%)}
+  .orb{position:fixed;border-radius:50%;filter:blur(110px);z-index:-2;pointer-events:none;
+    animation:drift 24s ease-in-out infinite alternate}
+  .orb-a{width:46vw;height:46vw;top:-12%;left:-10%;background:#6d28d9;opacity:.42}
+  .orb-b{width:40vw;height:40vw;top:22%;right:-14%;background:#1d4ed8;opacity:.38;animation-duration:30s;animation-delay:-8s}
+  .orb-c{width:36vw;height:36vw;bottom:-18%;left:26%;background:#0e7490;opacity:.32;animation-duration:34s;animation-delay:-16s}
+  @keyframes drift{
+    0%{transform:translate(0,0) scale(1)}
+    50%{transform:translate(4vw,-4vh) scale(1.08)}
+    100%{transform:translate(-3vw,4vh) scale(.94)}
+  }
+  .grid-overlay{position:fixed;inset:0;z-index:-1;pointer-events:none;
+    background-image:radial-gradient(rgba(255,255,255,.05) 1px,transparent 1px);
+    background-size:30px 30px;
+    -webkit-mask-image:radial-gradient(70% 60% at 50% 20%,#000 30%,transparent 100%);
+            mask-image:radial-gradient(70% 60% at 50% 20%,#000 30%,transparent 100%)}
+
+  /* ── Nav ────────────────────────────────────────── */
+  .nav{position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;
+    padding:14px clamp(18px,4vw,36px);
+    background:rgba(7,8,14,.6);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);
+    border-bottom:1px solid rgba(255,255,255,.06)}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--text);
+    font-weight:800;font-size:1rem;letter-spacing:-.02em}
+  .brand em{font-style:normal;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .brand-dot{width:11px;height:11px;border-radius:50%;
+    background:linear-gradient(135deg,var(--violet),var(--cyan));
+    box-shadow:0 0 12px rgba(139,92,246,.9)}
+  .nav-links{display:flex;align-items:center;gap:clamp(12px,2.5vw,26px)}
+  .nav-links a{color:var(--muted);text-decoration:none;font-size:.88rem;font-weight:600;transition:color .25s}
+  .nav-links a:hover{color:#fff}
+  .nav-cta{padding:8px 18px;border-radius:999px;color:#fff !important;font-size:.85rem !important;
+    background:linear-gradient(135deg,rgba(139,92,246,.35),rgba(34,211,238,.25));
+    border:1px solid rgba(139,92,246,.45);transition:box-shadow .25s,transform .25s !important}
+  .nav-cta:hover{box-shadow:0 0 20px rgba(139,92,246,.45);transform:translateY(-1px)}
+  @media(max-width:640px){.nav-links a:not(.nav-cta){display:none}}
+
+  /* ── Hero ───────────────────────────────────────── */
+  .hero{max-width:900px;margin:0 auto;text-align:center;padding:clamp(60px,10vw,110px) 24px 30px}
+  @keyframes fadeUp{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+  .hero>*{animation:fadeUp .8s cubic-bezier(.2,.8,.2,1) both}
+  .hero>*:nth-child(1){animation-delay:.05s}.hero>*:nth-child(2){animation-delay:.15s}
+  .hero>*:nth-child(3){animation-delay:.25s}.hero>*:nth-child(4){animation-delay:.35s}
+  .hero>*:nth-child(5){animation-delay:.45s}.hero>*:nth-child(6){animation-delay:.55s}
+
+  .badges{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:26px}
+  .badges img{height:22px;border-radius:4px;opacity:.9;transition:opacity .2s}
+  .badges a:hover img{opacity:1}
+
+  .eyebrow{display:inline-flex;align-items:center;gap:8px;padding:8px 18px;border-radius:999px;
+    border:1px solid rgba(139,92,246,.35);background:rgba(139,92,246,.08);
+    font-size:.7rem;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:#c4b5fd}
+  .hero h1{margin-top:26px;font-size:clamp(2.6rem,7.5vw,4.8rem);font-weight:900;letter-spacing:-.035em;line-height:1.05}
+  .grad{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .hero .sub{margin:20px auto 0;max-width:620px;color:var(--muted);font-size:clamp(1rem,2vw,1.18rem);line-height:1.65}
+  .hero .sub b{color:var(--text)}
+
+  .cta-row{display:flex;justify-content:center;flex-wrap:wrap;gap:14px;margin-top:38px}
+  .btn{position:relative;overflow:hidden;display:inline-flex;align-items:center;gap:9px;
+    padding:15px 28px;border-radius:999px;font-weight:700;font-size:.95rem;text-decoration:none;
+    transition:transform .3s cubic-bezier(.2,.8,.2,1),box-shadow .3s,background .3s}
+  .btn::after{content:"";position:absolute;top:0;left:-80%;width:55%;height:100%;
+    background:linear-gradient(105deg,transparent,rgba(255,255,255,.4),transparent);
+    transform:skewX(-20deg);transition:left .6s ease}
+  .btn:hover::after{left:130%}
+  .btn-primary{color:#fff;background:linear-gradient(135deg,#8b5cf6,#3b82f6 55%,#22d3ee);
+    box-shadow:0 10px 34px rgba(99,102,241,.4)}
+  .btn-primary:hover{transform:translateY(-3px);box-shadow:0 16px 44px rgba(99,102,241,.55)}
+  .btn-glass{color:#fff;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.16);
+    backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
+  .btn-glass:hover{transform:translateY(-3px);background:rgba(255,255,255,.11)}
+  .btn-ghost{color:var(--muted);border:1px solid rgba(255,255,255,.12)}
+  .btn-ghost:hover{transform:translateY(-3px);color:#fff;border-color:rgba(255,255,255,.3)}
+
+  .chips{display:flex;justify-content:center;flex-wrap:wrap;gap:10px;margin-top:34px}
+  .chip{padding:9px 18px;border-radius:999px;font-size:.82rem;font-weight:600;color:var(--muted);
+    background:var(--glass);border:1px solid var(--border);
+    backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+
+  /* ── Sections ───────────────────────────────────── */
+  .section{max-width:1100px;margin:0 auto;padding:clamp(40px,7vw,72px) 24px 0}
+  .eyebrow-sm{font-size:.7rem;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:#a78bfa}
+  .sec-head h2{margin-top:10px;font-size:clamp(1.6rem,3.5vw,2.3rem);font-weight:800;letter-spacing:-.025em}
+  .sec-head{margin-bottom:28px}
+
+  .glass-card{background:linear-gradient(160deg,rgba(255,255,255,.07),rgba(255,255,255,.025));
+    border:1px solid var(--border);border-radius:24px;
+    backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);
+    box-shadow:0 24px 60px rgba(0,0,0,.35)}
+
+  /* ── About ──────────────────────────────────────── */
+  .about{display:grid;grid-template-columns:1.2fr .9fr;gap:34px;padding:clamp(28px,4vw,42px);align-items:center}
+  .about h2{font-size:clamp(1.4rem,3vw,1.9rem);font-weight:800;letter-spacing:-.02em;margin-bottom:14px}
+  .about p{color:var(--muted);line-height:1.75;font-size:.98rem}
+  .about b{color:var(--text)}
+  code{font-family:'JetBrains Mono',monospace;font-size:.85em;color:#c4b5fd;
+    background:rgba(139,92,246,.13);border:1px solid rgba(139,92,246,.28);
+    padding:2px 8px;border-radius:8px;white-space:nowrap}
+  .link-arrow{display:inline-block;margin-top:18px;color:#7dd3fc;text-decoration:none;font-weight:700;font-size:.92rem;transition:color .25s}
+  .link-arrow:hover{color:#bae6fd}
+  .tree{font-family:'JetBrains Mono',monospace;font-size:.82rem;line-height:2.1;
+    padding:24px 26px;border-radius:18px;background:rgba(0,0,0,.3);border:1px solid var(--border)}
+  .tree .dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:10px;vertical-align:middle}
+  .tree .f{color:var(--text);font-weight:600}
+  .tree .note{color:var(--muted);font-size:.74rem;margin-left:10px}
+  @media(max-width:820px){.about{grid-template-columns:1fr}}
+
+  /* ── Icon grid ──────────────────────────────────── */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px}
+  .icon-card{position:relative;overflow:hidden;border-radius:20px;padding:14px;
+    background:linear-gradient(160deg,rgba(255,255,255,.06),rgba(255,255,255,.02));
+    border:1px solid rgba(255,255,255,.08);
+    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+    transition:transform .35s cubic-bezier(.2,.8,.2,1),border-color .35s,box-shadow .35s}
+  .icon-card::before{content:"";position:absolute;inset:0;opacity:0;pointer-events:none;transition:opacity .35s;
+    background:radial-gradient(240px circle at var(--mx,50%) var(--my,50%),rgba(139,92,246,.16),transparent 65%)}
+  .icon-card:hover{transform:translateY(-6px);border-color:rgba(139,92,246,.5);
+    box-shadow:0 20px 44px rgba(0,0,0,.5),0 12px 40px rgba(99,102,241,.18)}
+  .icon-card:hover::before{opacity:1}
+  .thumb{position:relative;aspect-ratio:1;display:grid;place-items:center;overflow:hidden;border-radius:14px;
+    background:radial-gradient(circle at 50% 32%,rgba(255,255,255,.09),rgba(255,255,255,.015))}
+  .thumb img{position:relative;z-index:1;width:80%;height:80%;object-fit:contain;
+    filter:drop-shadow(0 12px 22px rgba(0,0,0,.55));transition:transform .4s cubic-bezier(.2,.8,.2,1)}
+  .icon-card:hover .thumb img{transform:scale(1.08) translateY(-2px)}
+  .ph{position:absolute;font-size:3rem;font-weight:800;opacity:0;transition:opacity .3s;
+    background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .icon-card.missing .thumb img{display:none}
+  .icon-card.missing .ph{opacity:.9}
+  .tag{position:absolute;z-index:2;top:8px;right:8px;padding:3px 9px;border-radius:999px;
+    font-size:.58rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+    color:#c4b5fd;background:rgba(139,92,246,.18);border:1px solid rgba(139,92,246,.4)}
+  .icon-card figcaption{margin-top:12px;text-align:center;font-size:.84rem;font-weight:600}
+
+  /* ── Community ──────────────────────────────────── */
+  .comm-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  @media(max-width:720px){.comm-grid{grid-template-columns:1fr}}
+  .comm{display:block;text-decoration:none;color:var(--text);padding:30px;
+    transition:transform .35s cubic-bezier(.2,.8,.2,1),border-color .35s,box-shadow .35s}
+  .comm:hover{transform:translateY(-5px);border-color:rgba(34,211,238,.45);
+    box-shadow:0 20px 50px rgba(0,0,0,.45),0 12px 40px rgba(34,211,238,.12)}
+  .comm .emoji{font-size:2rem;display:block;margin-bottom:14px}
+  .comm h3{font-size:1.15rem;font-weight:800;letter-spacing:-.01em;margin-bottom:8px}
+  .comm p{color:var(--muted);font-size:.92rem;line-height:1.6;margin-bottom:16px}
+  .comm .go{color:#7dd3fc;font-weight:700;font-size:.88rem}
+
+  /* ── View-Set modal 🪟 ──────────────────────────── */
+  .modal{position:fixed;inset:0;z-index:100;display:none;align-items:center;justify-content:center;padding:18px}
+  .modal.open{display:flex}
+  .modal-backdrop{position:absolute;inset:0;background:rgba(3,4,10,.72);
+    backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
+    animation:fadeIn .3s ease both}
+  @keyframes fadeIn{from{opacity:0}to{opacity:1}}
+  .modal-panel{position:relative;width:min(1200px,100%);max-height:88vh;display:flex;flex-direction:column;
+    border-radius:26px;border:1px solid rgba(255,255,255,.12);
+    background:linear-gradient(160deg,rgba(20,22,34,.94),rgba(10,12,20,.94));
+    box-shadow:0 40px 120px rgba(0,0,0,.6);overflow:hidden;
+    animation:pop .45s cubic-bezier(.2,.9,.25,1.05) both}
+  @keyframes pop{from{opacity:0;transform:translateY(26px) scale(.97)}to{opacity:1;transform:none}}
+  .modal-top{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;
+    padding:22px 26px;border-bottom:1px solid rgba(255,255,255,.08);background:rgba(255,255,255,.03)}
+  .modal-top h2{font-size:1.4rem;font-weight:800;letter-spacing:-.02em;margin-top:6px}
+  .modal-tools{display:flex;gap:10px;align-items:center}
+  .search{padding:11px 18px;border-radius:999px;border:1px solid rgba(255,255,255,.14);
+    background:rgba(255,255,255,.06);color:var(--text);font-family:inherit;font-size:.9rem;outline:none;
+    min-width:210px;transition:border-color .25s,box-shadow .25s}
+  .search::placeholder{color:var(--muted)}
+  .search:focus{border-color:rgba(139,92,246,.6);box-shadow:0 0 0 3px rgba(139,92,246,.18)}
+  .close-btn{width:42px;height:42px;border-radius:50%;border:1px solid rgba(255,255,255,.15);
+    background:rgba(255,255,255,.06);color:var(--text);font-size:1rem;cursor:pointer;
+    transition:background .25s,transform .25s,border-color .25s}
+  .close-btn:hover{background:rgba(255,80,80,.2);border-color:rgba(255,90,90,.5);transform:rotate(90deg)}
+  .modal-body{overflow-y:auto;padding:24px 26px 34px;scrollbar-width:thin;scrollbar-color:rgba(139,92,246,.5) transparent}
+  .modal-body::-webkit-scrollbar{width:9px}
+  .modal-body::-webkit-scrollbar-thumb{background:rgba(139,92,246,.35);border-radius:99px}
+  @media(max-width:640px){
+    .search{min-width:0;flex:1}
+    .modal-body .grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr))}
+    .modal-top{padding:18px}
+  }
+  .count-pill{display:inline-block;vertical-align:middle;margin-left:10px;padding:4px 13px;border-radius:999px;
+    font-size:.72rem;font-weight:700;letter-spacing:.05em;color:#c4b5fd;
+    background:rgba(139,92,246,.15);border:1px solid rgba(139,92,246,.4)}
+  .divider{grid-column:1/-1;margin:20px 0 4px;display:flex;align-items:center;gap:12px;
+    font-size:.78rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:#a78bfa}
+  .divider::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,rgba(139,92,246,.4),transparent)}
+  .loader{display:flex;align-items:center;justify-content:center;gap:14px;padding:90px 0;color:var(--muted);font-weight:600}
+  .spinner{width:26px;height:26px;border-radius:50%;
+    border:3px solid rgba(255,255,255,.14);border-top-color:#a78bfa;animation:spin .8s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .error-box{text-align:center;padding:80px 20px;color:var(--muted)}
+  .error-box p{font-size:1.05rem;margin-bottom:20px;line-height:1.7}
+
+  /* ── Footer ─────────────────────────────────────── */
+  footer{margin-top:clamp(60px,9vw,100px);padding:36px 24px 44px;text-align:center;
+    border-top:1px solid rgba(255,255,255,.06)}
+  footer p{color:var(--muted);font-size:.92rem;line-height:1.9}
+  footer a{color:var(--text);text-decoration:none;font-weight:700;border-bottom:1px solid rgba(255,255,255,.25);transition:border-color .25s,color .25s}
+  footer a:hover{color:#a78bfa;border-color:#a78bfa}
+  .foot-note{margin-top:6px;font-size:.8rem;opacity:.75}
+
+  /* ── Reveal on scroll ───────────────────────────── */
+  .reveal{opacity:0}
+  .reveal.in{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both;animation-delay:var(--d,0ms)}
+  .reveal.done{opacity:1}
+
+  @media (prefers-reduced-motion:reduce){
+    *,*::before,*::after{animation:none !important;transition:none !important}
+    .reveal{opacity:1}
+  }
 </style>
-  </head>
-  <body>
-    <div class="container">
-      <div class="body-content"><h1 id="iconset-tahoe-style-linux-mac-windows">IconSet-Tahoe-Style-Linux-Mac-Windows</h1>
-<p>Icon Set Linux, Windows and Mac; built in Tahoe Style Liquid Glass Effects </p>
-<p><a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a></p>
-<ul>
-<h3 id="view-full-set">View 🔎 ➥ <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-Set.md">Full Set</a></h3>
-<li>Its Built from ➤ <a href="https://developer.apple.com/documentation/Xcode/creating-your-app-icon-using-icon-composer">Icon Composer</a>
-<h3 id="downloads-repository">Downloads ➦ <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/archive/refs/heads/main.zip">Repository</a></h3>
-</li>
-</ul>
-<h3 id="discussions-discussions">Discussions ➥ <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/discussions">Discussions</a></h3>
-<h3 id="suggestions-of-icon-to-add-suggestions">Suggestions of Icon to Add ➥ <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/discussions/2">Suggestions</a></h3>
-<hr>
-<p><img src="ICON_OUT/Garuda.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/BlackArch.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Fatdog.png" alt="Github Project" style="width:25%;">
-<img src="ICON_OUT/Debian.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/FreeBSD.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Kali.png" alt="Github Project" style="width:25%;"></p>
-<p><img src="ICON_OUT/Apple26.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple15.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple14.png" alt="Github Project" style="width:25%;"> 
-<img src="ICON_OUT/Apple13.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple12.png" alt="Github Project" style="width:25%;"> <img src="ICON_OUT/Apple11_Dark.png" alt="Github Project" style="width:25%;"></p>
-</div>
+</head>
+<body>
+
+<!-- Ambient background -->
+<div class="orb orb-a"></div>
+<div class="orb orb-b"></div>
+<div class="orb orb-c"></div>
+<div class="grid-overlay"></div>
+
+<!-- Nav -->
+<nav class="nav">
+  <a class="brand" href="#top"><span class="brand-dot"></span>IconSet&nbsp;<em>Tahoe</em></a>
+  <div class="nav-links">
+    <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-Set.md" data-open-viewset>View Set</a>
+    <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/discussions">Discussions</a>
+    <a class="nav-cta" href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/archive/refs/heads/main.zip">⬇ Download</a>
+  </div>
+</nav>
+
+<main id="top">
+
+  <!-- Hero -->
+  <header class="hero">
+    <div class="badges">
+      <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+      </a>
+      <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/actions/workflows/pages/pages-build-deployment">
+        <img src="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/actions/workflows/pages/pages-build-deployment/badge.svg" alt="pages-build-deployment">
+      </a>
     </div>
-  </body>
+
+    <span class="eyebrow">✦ Apple Icon Composer · Liquid Glass ✦</span>
+
+    <h1>IconSet <span class="grad">Tahoe Style</span></h1>
+
+    <p class="sub">Icon Set for <b>Linux</b>, <b>Windows</b> and <b>Mac</b> — built in
+      <b>Tahoe Style Liquid Glass Effects</b>.</p>
+
+    <div class="cta-row">
+      <a class="btn btn-primary" href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-Set.md" data-open-viewset>🔎 View Full Icon Set</a>
+      <a class="btn btn-glass" href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/archive/refs/heads/main.zip">⬇ Download Repository</a>
+      <a class="btn btn-ghost" href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/discussions">💬 Discussions</a>
+    </div>
+
+    <div class="chips">
+      <span class="chip">🍎 Tahoe Liquid Glass</span>
+      <span class="chip">🧩 Built with Icon Composer</span>
+      <span class="chip">🐧 Linux · 🪟 Windows · 🍏 Mac</span>
+    </div>
+  </header>
+
+  <!-- About -->
+  <section class="section">
+    <div class="glass-card about reveal">
+      <div>
+        <span class="eyebrow-sm">About the set</span>
+        <h2>Crafted with liquid glass, built for every platform</h2>
+        <p>The images inside <code>Group_Icons.icon/Assets</code> are those created in
+          <b>full size</b>, while <code>ICON_OUT</code> and <code>Apple_Build</code> are those
+          created in <b>Tahoe Style</b>.</p>
+        <a class="link-arrow" href="https://developer.apple.com/documentation/Xcode/creating-your-app-icon-using-icon-composer">Learn about Icon Composer →</a>
+      </div>
+      <div class="tree">
+        <div><span class="dot" style="background:#8b5cf6"></span><span class="f">Group_Icons.icon/Assets</span><span class="note">→ full size</span></div>
+        <div><span class="dot" style="background:#22d3ee"></span><span class="f">ICON_OUT</span><span class="note">→ Tahoe Style</span></div>
+        <div><span class="dot" style="background:#22d3ee"></span><span class="f">Apple_Build</span><span class="note">→ Tahoe Style</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Linux gallery -->
+  <section class="section">
+    <div class="sec-head reveal">
+      <span class="eyebrow-sm">Gallery · 01</span>
+      <h2>🐧 Linux Distributions</h2>
+    </div>
+    <div class="grid" id="grid-linux"></div>
+  </section>
+
+  <!-- Apple gallery -->
+  <section class="section">
+    <div class="sec-head reveal">
+      <span class="eyebrow-sm">Gallery · 02</span>
+      <h2>🍏 Apple &amp; macOS</h2>
+    </div>
+    <div class="grid" id="grid-apple"></div>
+  </section>
+
+  <!-- Community -->
+  <section class="section">
+    <div class="sec-head reveal">
+      <span class="eyebrow-sm">Community</span>
+      <h2>Join the conversation</h2>
+    </div>
+    <div class="comm-grid">
+      <a class="glass-card comm reveal" style="--d:60ms" href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/discussions">
+        <span class="emoji">💬</span>
+        <h3>Discussions</h3>
+        <p>Questions, feedback and showcase — jump into the conversation with the community.</p>
+        <span class="go">Open Discussions →</span>
+      </a>
+      <a class="glass-card comm reveal" style="--d:140ms" href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/discussions/2">
+        <span class="emoji">✨</span>
+        <h3>Suggestions</h3>
+        <p>Have an icon in mind? Suggest which icon should be added to the set next.</p>
+        <span class="go">Add a Suggestion →</span>
+      </a>
+    </div>
+  </section>
+
+</main>
+
+<!-- Footer -->
+<footer>
+  <p>
+    <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac">IconSet-Tahoe-Style-Linux-Mac</a>
+    © 2026 by <a href="https://github.com/chris1111">chris1111</a> — licensed under
+    <a href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/LICENSE">MIT</a>
+  </p>
+  <p class="foot-note">Built with 💜 in Tahoe Style Liquid Glass</p>
+</footer>
+
+<!-- ═══ Full Icon Set modal 🪟 ═══ -->
+<div class="modal" id="viewModal" role="dialog" aria-modal="true" aria-label="Full Icon Set">
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-panel">
+    <div class="modal-top">
+      <div>
+        <span class="eyebrow-sm">Gallery · Full Set</span>
+        <h2>Full Icon Set <span class="count-pill" id="iconCount" hidden></span></h2>
+      </div>
+      <div class="modal-tools">
+        <input class="search" id="iconSearch" type="search" placeholder="🔎 Search icons…" autocomplete="off">
+        <button class="close-btn" data-close aria-label="Close">✕</button>
+      </div>
+    </div>
+    <div class="modal-body" id="modalContent">
+      <div class="loader"><span class="spinner"></span>Loading icon set…</div>
+    </div>
+  </div>
+</div>
+
+<script>
+  /* ── Icon data (homepage galleries) ────────────── */
+  const linuxIcons = [
+    ["ICON_OUT/Zorin.png","Zorin"], ["ICON_OUT/BlackArch.png","BlackArch"], ["ICON_OUT/Garuda.png","Garuda"],
+    ["ICON_OUT/Parrot.png","Parrot"], ["ICON_OUT/FreeBSD.png","FreeBSD"], ["ICON_OUT/Kali.png","Kali"],
+    ["ICON_OUT/Sparky.png","Sparky"], ["ICON_OUT/Debian.png","Debian"], ["ICON_OUT/KDE.png","KDE"]
+  ];
+  const appleIcons = [
+    ["ICON_OUT/Apple27.png","Apple 27"], ["ICON_OUT/Apple26.png","Apple 26"], ["ICON_OUT/Apple15.png","Apple 15"],
+    ["ICON_OUT/Apple14.png","Apple 14"], ["ICON_OUT/Apple13.png","Apple 13"], ["ICON_OUT/Apple12.png","Apple 12"],
+    ["Apple_Build/Apple10_14.png","Apple 10.14","Build"], ["Apple_Build/Apple10_15.png","Apple 10.15","Build"],
+    ["Apple_Build/Apple11.png","Apple 11","Build"], ["Apple_Build/Apple13.png","Apple 13","Build"],
+    ["Apple_Build/Apple26.png","Apple 26","Build"], ["Apple_Build/Apple27.png","Apple 27","Build"]
+  ];
+
+  const esc = s => String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;");
+
+  function buildCard([src, name, tag], i, reveal = true){
+    const fig = document.createElement("figure");
+    fig.className = "icon-card" + (reveal ? " reveal" : "");
+    fig.style.setProperty("--d", (i % 6) * 70 + "ms");
+    fig.dataset.name = name.toLowerCase();
+    fig.innerHTML = `
+      <div class="thumb">
+        <span class="ph">${esc(name.trim()[0] || "?")}</span>
+        <img src="${esc(src)}" alt="${esc(name)} icon — Tahoe style" loading="lazy">
+        ${tag ? `<span class="tag">${esc(tag)}</span>` : ""}
+      </div>
+      <figcaption>${esc(name)}</figcaption>`;
+    fig.querySelector("img").addEventListener("error", () => fig.classList.add("missing"));
+    return fig;
+  }
+
+  const gridLinux = document.getElementById("grid-linux");
+  const gridApple = document.getElementById("grid-apple");
+  linuxIcons.forEach((it, i) => gridLinux.appendChild(buildCard(it, i)));
+  appleIcons.forEach((it, i) => gridApple.appendChild(buildCard(it, i)));
+
+  /* ── Pointer glow on all cards (delegated) ─────── */
+  document.addEventListener("pointermove", e => {
+    const card = e.target.closest(".icon-card");
+    if (!card) return;
+    const r = card.getBoundingClientRect();
+    card.style.setProperty("--mx", (e.clientX - r.left) + "px");
+    card.style.setProperty("--my", (e.clientY - r.top) + "px");
+  });
+
+  /* ── Reveal on scroll ──────────────────────────── */
+  const io = new IntersectionObserver(entries => {
+    entries.forEach(en => {
+      if (en.isIntersecting){
+        en.target.classList.add("in");
+        io.unobserve(en.target);
+      }
+    });
+  }, { threshold: .12 });
+
+  document.querySelectorAll(".reveal").forEach(el => {
+    io.observe(el);
+    el.addEventListener("animationend", () => {
+      el.classList.add("done");
+      el.classList.remove("in");
+    }, { once: true });
+  });
+
+  /* ══════════════════════════════════════════════════
+     🪟 VIEW-SET MODAL — fetches View-Set.md live
+     ══════════════════════════════════════════════════ */
+  const modal        = document.getElementById("viewModal");
+  const modalContent = document.getElementById("modalContent");
+  const iconCount    = document.getElementById("iconCount");
+  const searchInput  = document.getElementById("iconSearch");
+  let setLoaded = false;
+
+  /* Parse markdown: headings → sections, images → cards */
+  function parseMarkdown(md){
+    const items = [];
+    const imgMd   = /!\[([^\]]*)\]\(\s*([^)\s]+)[^)]*\)/g;
+    const imgHtml = /<img[^>]*?\ssrc\s*=\s*["']([^"']+)["'][^>]*>/gi;
+    let section = null;
+    for (const line of md.split(/\r?\n/)){
+      const h = line.match(/^#{1,4}\s+(.*)/);
+      if (h){ section = h[1].trim(); continue; }
+      let m;
+      imgMd.lastIndex = 0;
+      while ((m = imgMd.exec(line))) items.push({ src: m[2], alt: m[1], section });
+      imgHtml.lastIndex = 0;
+      while ((m = imgHtml.exec(line))) items.push({ src: m[1], alt: "", section });
+    }
+    /* skip shields / badges */
+    return items.filter(it => !/shields\.io|badge\.svg/i.test(it.src));
+  }
+
+  /* github.com/blob URLs → raw URLs ; relative paths kept as-is */
+  function resolveSrc(src){
+    return src.replace(/^https?:\/\/github\.com\/(.+?)\/blob\//i, "https://raw.githubusercontent.com/$1/");
+  }
+
+  function nameFor(it){
+    let n = (it.alt || "").trim();
+    if (!n || /^(github project|image|icon|img)?$/i.test(n)){
+      n = decodeURIComponent(it.src.split("/").pop())
+            .replace(/\.(png|jpe?g|gif|webp|svg)$/i, "")
+            .replace(/[_-]+/g, " ").trim();
+    }
+    return n || "Icon";
+  }
+
+  async function fetchViewSet(){
+    const sources = [
+      "View-Set.md",
+      "https://raw.githubusercontent.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/main/View-Set.md"
+    ];
+    for (const url of sources){
+      try{
+        const res = await fetch(url, { cache: "no-cache" });
+        if (!res.ok) continue;
+        const text = await res.text();
+        if (/<html/i.test(text)) continue;          /* got a HTML page, not markdown */
+        const items = parseMarkdown(text);
+        if (items.length) return items;
+      }catch(e){ /* try next source */ }
+    }
+    throw new Error("View-Set.md unavailable");
+  }
+
+  function renderSet(items){
+    /* group by markdown headings */
+    const groups = [];
+    items.forEach(it => {
+      let g = groups.find(x => x.key === it.section);
+      if (!g){ g = { key: it.section, items: [] }; groups.push(g); }
+      g.items.push(it);
+    });
+
+    modalContent.innerHTML = "";
+    const grid = document.createElement("div");
+    grid.className = "grid";
+    let i = 0;
+    groups.forEach(g => {
+      if (g.key){
+        const d = document.createElement("div");
+        d.className = "divider";
+        d.dataset.group = g.key;
+        d.textContent = g.key;
+        grid.appendChild(d);
+      }
+      g.items.forEach(it => {
+        const card = buildCard([resolveSrc(it.src), nameFor(it)], i++, false);
+        card.dataset.group = g.key || "";
+        grid.appendChild(card);
+      });
+    });
+    modalContent.appendChild(grid);
+    iconCount.hidden = false;
+    iconCount.textContent = `${items.length} icons`;
+  }
+
+  async function loadSet(){
+    try{
+      const items = await fetchViewSet();
+      renderSet(items);
+    }catch(err){
+      modalContent.innerHTML = `
+        <div class="error-box">
+          <p>😅 Couldn't load the icon set.<br>Check your internet connection or browse it directly on GitHub.</p>
+          <a class="btn btn-glass" target="_blank" rel="noopener"
+             href="https://github.com/chris1111/IconSet-Tahoe-Style-Linux-Mac/blob/main/View-Set.md">Open View-Set.md on GitHub →</a>
+        </div>`;
+    }
+  }
+
+  function openModal(){
+    modal.classList.add("open");
+    document.body.style.overflow = "hidden";
+    searchInput.value = "";
+    if (!setLoaded){ setLoaded = true; loadSet(); }
+    setTimeout(() => searchInput.focus(), 100);
+  }
+  function closeModal(){
+    modal.classList.remove("open");
+    document.body.style.overflow = "";
+  }
+
+  document.querySelectorAll("[data-open-viewset]").forEach(el =>
+    el.addEventListener("click", e => { e.preventDefault(); openModal(); })
+  );
+  modal.addEventListener("click", e => { if (e.target.closest("[data-close]")) closeModal(); });
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape" && modal.classList.contains("open")) closeModal();
+  });
+
+  /* ── Live search filter ────────────────────────── */
+  searchInput.addEventListener("input", () => {
+    const q = searchInput.value.trim().toLowerCase();
+    const cards = [...modalContent.querySelectorAll(".icon-card")];
+    let visible = 0;
+    cards.forEach(c => {
+      const show = !q || c.dataset.name.includes(q);
+      c.style.display = show ? "" : "none";
+      if (show) visible++;
+    });
+    modalContent.querySelectorAll(".divider").forEach(d => {
+      const any = cards.some(c => c.dataset.group === d.dataset.group && c.style.display !== "none");
+      d.style.display = any ? "" : "none";
+    });
+    iconCount.textContent = q ? `${visible} found` : `${cards.length} icons`;
+  });
+</script>
+</body>
 </html>
